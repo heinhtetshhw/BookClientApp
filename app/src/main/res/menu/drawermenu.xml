@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item android:icon="@drawable/ic_listening"
+        android:title="Ongoing Books"/>
+    <item android:icon="@drawable/ic_wallet"
+        android:title="Wallet"/>
+    <item android:title="Bookmarked"
+        android:icon="@drawable/ic_bookmark"/>
+    <item android:icon="@drawable/ic_support"
+        android:id="@+id/support"
+        android:title="Support"/>
+    <item android:icon="@drawable/ic_logout"
+        android:title="Log In"
+        android:id="@+id/login"/>
+        
+</menu>
